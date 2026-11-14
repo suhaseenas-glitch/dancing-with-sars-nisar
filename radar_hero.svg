@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="390" viewBox="0 0 1300 390">
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09233A"/><stop offset="1" stop-color="#0E586C"/></linearGradient><radialGradient id="g"><stop stop-color="#2ECDBD"/><stop offset="1" stop-color="#175B79"/></radialGradient><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DBF8FA"/><stop offset="1" stop-color="#84D1D2"/></linearGradient></defs>
+ <rect width="1300" height="390" fill="url(#bg)" rx="28"/>
+ <g opacity=".3" fill="#B5E4EC"><circle cx="90" cy="60" r="2"/><circle cx="180" cy="110" r="2"/><circle cx="1080" cy="60" r="3"/><circle cx="1200" cy="260" r="2"/><circle cx="690" cy="50" r="2"/><circle cx="1220" cy="84" r="2"/><circle cx="970" cy="290" r="2"/></g>
+ <circle cx="1000" cy="219" r="182" fill="url(#g)"/><circle cx="1000" cy="219" r="170" fill="none" stroke="#8CE9D9" opacity=".45" stroke-width="1.5"/>
+ <g fill="#9FE7CB" opacity=".6"><path d="M875 120 Q917 100 967 112 L978 146 950 171 951 199 904 214 891 255 852 238 849 180Z"/><path d="M1003 68 Q1060 69 1110 105 L1136 151 1117 182 1070 169 1042 202 1001 190 983 137Z"/><path d="M1051 233 l40 -22 36 24 -9 47 -49 23 -26 -30Z"/><path d="M935 290 l55 -9 21 33 -16 58 -36 -4Z"/></g>
+ <g fill="none" stroke="#B7F2EA" opacity=".28"><ellipse cx="1000" cy="219" rx="174" ry="65"/><ellipse cx="1000" cy="219" rx="72" ry="174"/><path d="M829 219H1172"/></g>
+ <g transform="translate(842 43) rotate(-23)"><path d="M0 0H-120" stroke="#F3D687" stroke-width="8"/><path d="M0 0H121" stroke="#F3D687" stroke-width="8"/><rect x="-203" y="-36" width="85" height="72" fill="#286F9B" stroke="#87D4E5" stroke-width="4"/><rect x="120" y="-36" width="85" height="72" fill="#286F9B" stroke="#87D4E5" stroke-width="4"/><path d="M-192 -17H-129M-192 2H-129M-192 20H-129M132 -17H192M132 2H192M132 20H192" stroke="#8AD5E2" stroke-width="4"/><rect x="-30" y="-26" width="60" height="52" rx="8" fill="#EDC775" stroke="#FFFFFF" stroke-width="2"/><path d="M0 26V73" stroke="#EDC775" stroke-width="6"/><path d="M-20 70L0 98L20 70Z" fill="#EDC775"/></g>
+ <path d="M749 128Q777 170 784 228Q789 289 755 345" fill="none" stroke="#5DE2D4" stroke-width="2" stroke-dasharray="8 9" opacity=".7"/>
+ <text x="54" y="76" fill="#78DDD3" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">NASA SPACE APPS · NISAR EARTH OBSERVATION</text>
+ <text x="54" y="158" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="62" font-weight="800">Dancing with SARs</text>
+ <text x="56" y="207" fill="#DBF3F7" font-family="Arial,sans-serif" font-size="26">See the changes our planet makes.</text>
+ <text x="56" y="273" fill="#D5ECF4" font-family="Arial,sans-serif" font-size="19">Explore · Compare · Investigate · Report</text>
+ <rect x="54" y="311" width="392" height="38" fill="#217B81" rx="18"/><text x="72" y="336" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="17" font-weight="700">RADAR RESEARCH STUDIO  •  VERSION 1.0</text>
+</svg>
